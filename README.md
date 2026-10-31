@@ -1,7 +1,7 @@
 # LTCchain Wallet & Blockchain Explorer
 Offline wallet based on javascript for Litecoin currency
 
-You can run (wallet_offline.html) on your browser to use as a simple Javascript-based Wallet.
+You can run (wallet.html or wallet.php) on your browser to use as a simple Javascript-based Wallet.
 
 or copy the whole project files to PHP server to use the explorer & API functions.
 
